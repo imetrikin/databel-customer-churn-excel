@@ -23,7 +23,7 @@ Databel is a telecom provider losing customers faster than it would like, withou
 4. What is churn actually costing the business?
 
 ## The dashboard
-
+![Dashboard](dashboard excel.png)
 
 
 
